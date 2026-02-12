@@ -1,0 +1,19 @@
+{
+  "name": "Puntgenie",
+  "short_name": "Puntgenie",
+  "theme_color": "",
+  "background_color": "#1A202C",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1770885324-favicon-v2-2025-06-25-t162118-852-3dae5a1b49.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
